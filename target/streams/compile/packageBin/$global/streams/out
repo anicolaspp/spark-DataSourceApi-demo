@@ -1,0 +1,39 @@
+[info] Packaging /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/spark-datasource_2.11-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com
+[debug] 	com/nico/datasource/dat/LegacyRelation$$anonfun$2$$anonfun$3.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/LegacyRelation$$anonfun$2$$anonfun$3.class
+[debug] 	com/nico/datasource/app.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/app.class
+[debug] 	com/nico/datasource/dat/DefaultSource$$anonfun$1$$anonfun$2.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/DefaultSource$$anonfun$1$$anonfun$2.class
+[debug] 	com/nico/datasource/dat/DefaultSource.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/DefaultSource.class
+[debug] 	com/nico/datasource/app$$anonfun$main$1.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/app$$anonfun$main$1.class
+[debug] 	com/nico/datasource/dat/LegacyRelation$$anonfun$2.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/LegacyRelation$$anonfun$2.class
+[debug] 	com/nico
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico
+[debug] 	com/nico/datasource/app$$anonfun$1.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/app$$anonfun$1.class
+[debug] 	com/nico/datasource/dat/LegacyRelation.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/LegacyRelation.class
+[debug] 	com/nico/datasource/dat
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat
+[debug] 	com/nico/datasource/app$.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/app$.class
+[debug] 	com/nico/datasource/dat/DefaultSource$$anonfun$createRelation$1.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/DefaultSource$$anonfun$createRelation$1.class
+[debug] 	com/nico/datasource/dat/LegacyRelation$$anonfun$1.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/LegacyRelation$$anonfun$1.class
+[debug] 	com/nico/datasource/dat/DefaultSource$$anonfun$1.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/DefaultSource$$anonfun$1.class
+[debug] 	com/nico/datasource
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource
+[debug] 	com/nico/datasource/dat/LegacyRelation$.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/dat/LegacyRelation$.class
+[debug] 	com/nico/datasource/app$MyList.class
+[debug] 	  /Users/anicolaspp/IdeaProjects/spark-datasource/target/scala-2.11/classes/com/nico/datasource/app$MyList.class
+[info] Done packaging.
